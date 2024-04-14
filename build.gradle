@@ -46,6 +46,7 @@ dependencies {
   implementation "junit:junit:4.13.2"
   implementation "org.xerial:sqlite-jdbc:3.36.0.3"
   implementation "org.yaml:snakeyaml:1.33"
+  implementation "io.github.snake-yaml:snakeyaml:2.8.2"
   implementation "io.github.snake-yaml:snakeyaml:2.9"
 
 
