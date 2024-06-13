@@ -48,6 +48,7 @@ dependencies {
   implementation "org.yaml:snakeyaml:1.33"
   implementation "io.github.snake-yaml:snakeyaml:2.8.2"
   implementation "io.github.snake-yaml:snakeyaml:2.9"
+  implementation "io.github.xz-java:xz-java:1.9"
 
 
 
